@@ -7,6 +7,6 @@ Personal social media links page by @dimach_28
 - Telegram Channel  
 - Donation Alerts
 
-# Ссылки
+### Ссылки
 
 •Мои Соц.Сети- https://dimach-28.github.io
